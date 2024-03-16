@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/heronjunior/teste_tea/issues"
   },
-  "homepage": "https://github.com/heronjunior/teste_tea#readme"
+  "homepage": "https://github.com/heronjunior/teste_tea#readme",
+  "dependencies": {
+     "axios": "^1.5.1"
+  }
 }
